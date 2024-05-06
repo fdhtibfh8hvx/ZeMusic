@@ -27,10 +27,10 @@ def private_panel(_):
         [InlineKeyboardButton(text="𖣂 **الـاوامر** 𖣂", callback_data="settings_back_helper")],
         [
             InlineKeyboardButton(text="𖣂 👤 مطور البوت 𖣂", user_id=config.OWNER_6094238403),
-            InlineKeyboardButton(text="𖣂 الدعم 𖣂", url=config.SUPPORT_CHAT),
+            InlineKeyboardButton(text="𖣂 الدعم 𖣂", url=config.https://t.me/KKC8C),
         ],
         [
-            InlineKeyboardButton(text="𖣂 قناة المطور 𖣂", url=config.SUPPORT_KKC8C),
+            InlineKeyboardButton(text="𖣂 قناة المطور 𖣂", url=config.https://t.me/KKC8C),
             InlineKeyboardButton(text="𖣂 قناة السورس 𖣂", url=f"https://t.me/KKC8C"),
         ],
     ]
