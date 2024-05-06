@@ -9,10 +9,10 @@ async def arbic(_, query: CallbackQuery):
     await query.answer("home start")
     await query.edit_message_text(
         f""" 🔱**[مرحبا بك] [{query.message.chat.first_name}](tg://user?id={query.message.chat.id}) ! \n
-※ [انا بوت تشغيل الأغاني والفيديو  في المكالمه المرئية](https://t.me/Source_Ze) \n
-※[لاظهار كيبورد الاعضاء اضغط](https://t.me/Source_Ze) /ZE \n
-※ [في حال مواجهه اي مشكله انضم هنا](https://t.me/Source_Ze)\n [🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱](https://t.me/Source_Ze)
-※ [استخدم الازرار لمعرفه الاوامر المستخدمه.](https://t.me/Source_Ze) """,
+※ [انا بوت تشغيل الأغاني والفيديو  في المكالمه المرئية](https://t.me/KKC8C) \n
+※[لاظهار كيبورد الاعضاء اضغط](https://t.me/KKC8C) /ZE \n
+※ [في حال مواجهه اي مشكله انضم هنا](https://t.me/KKC8C)\n [🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱](https://t.me/Source_Ze)
+※ [استخدم الازرار لمعرفه الاوامر المستخدمه.](https://t.me/KKC8C) """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -21,7 +21,7 @@ async def arbic(_, query: CallbackQuery):
                         url=f"https://t.me/{app.username}?startgroup=true",
                     )
                 ],
-                [InlineKeyboardButton("الدعم والتواصل", url=f"https://t.me/ZeSupport"),
+                [InlineKeyboardButton("الدعم والتواصل", url=f"https://t.me/KKC8C"),
                 
 InlineKeyboardButton("لتفعيل كيبورد الاعضاء", callback_data="ze"),
                 ],
@@ -30,12 +30,12 @@ InlineKeyboardButton("لتفعيل كيبورد الاعضاء", callback_data="
                 ],
                 [
                     InlineKeyboardButton(
-                        "‹ السورس ›", url=f"https://t.me/Source_Ze"
+                        "‹ السورس ›", url=f"https://t.me/KKC8C"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "‹ المطور ›", url="https://t.me/D_S_I"
+                        "‹ المطور ›", url="https://t.me/y_o_v"
                     )
                 ],
             ]
@@ -47,7 +47,7 @@ InlineKeyboardButton("لتفعيل كيبورد الاعضاء", callback_data="
 async def english(_, query: CallbackQuery):
     await query.answer("home start")
     await query.edit_message_text(
-        f" [※A Telegram Music Bot Based Mongodb](https://t.me/Source_Ze) \n ※[Add Me To Ur Chat For and Help and And Support Click On Buttons](https://t.me/Source_Ze) \n ※[These Features AI Based](https://t.me/Source_Ze)",
+        f" [※A Telegram Music Bot Based Mongodb](https://t.me/KKC8C) \n ※[Add Me To Ur Chat For and Help and And Support Click On Buttons](https://t.me/KKC8C) \n ※[These Features AI Based](https://t.me/KKC8C)",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -62,11 +62,11 @@ InlineKeyboardButton(" member keyboard ", callback_data="Source_Ze"),
                 ],
                 [                
                     InlineKeyboardButton(" Commands", callback_data="cbcmds"),
-                    InlineKeyboardButton(" Donate", url=f"https://t.me/Source_Ze"),
+                    InlineKeyboardButton(" Donate", url=f"https://t.me/KKC8C"),
                 ],
                 [
                     InlineKeyboardButton(
-                        " DEVELOPER ", url="https://t.me/D_S_I"
+                        " DEVELOPER ", url="https://t.me/Y_o_v"
                     )
                 ],
             ]
@@ -93,7 +93,7 @@ async def cbguides(_, query: CallbackQuery):
         ),
     )
 
-@Client.on_callback_query(filters.regex("Source_Ze"))
+@Client.on_callback_query(filters.regex("https://t.me/KKC8C"))
 async def cbguides(_, query: CallbackQuery):
     await query.answer("user guide")
     await query.edit_message_text(
@@ -203,7 +203,7 @@ async def acbguides(_, query: CallbackQuery):
 4.) **تاكد كن تشغيل المحادثة المرئية \n√.**
 5.) ** /Reload اذا واجهت خطأ قم بكتابة الامر \n√.**
 💎 ** في حال لم يستطع الحساب المساعد الانضمام اللي المحادثة المرئية قم بطرد الحساب المساعد بالأمر /غادر \n√.  \n ودعوتة من جديد عنريق الامر /انضم \n√.**
-\n√ **في حال واجهت اي مشكلة اخري يمكنك التواصل مع زد إي من هن : @Source_Ze **
+\n√ **في حال واجهت اي مشكلة اخري يمكنك التواصل مع زد إي من هن : @Y_o_v **
 \n __ Developer """,
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("العودة", callback_data="arbic")]]
