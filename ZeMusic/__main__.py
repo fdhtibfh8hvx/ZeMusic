@@ -41,7 +41,7 @@ async def init():
     await userbot.start()
     await Mody.start()
     try:
-        await Mody.stream_call("https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4")
+        await Mody.stream_call("https://telegra.ph/file/d64e882e61268d454c6c0.jpg")
     except NoActiveGroupCall:
         LOGGER("ZeMusic").error(
             "Please turn on the videochat of your log group\channel.\n\nStopping Bot..."
