@@ -53,7 +53,7 @@ async def aflamAR2(c: Client, m: CallbackQuery):
         [InlineKeyboardButton("مسلسلات 📼", callback_data="moslsl " + str(m.from_user.id))],
         [InlineKeyboardButton("مسرحيات 🎭 ", callback_data="msrahia " + str(m.from_user.id))],
 
-        [InlineKeyboardButton("🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱", url=f"https://t.me/Source_Ze")],
+        [InlineKeyboardButton("🔱 𝐒𝐎𝐔𝐑𝐂𝐄 SAQR 🔱", url=f"https://t.me/O_U_Q1")],
 
     ])
     await m.message.edit_text("◍ اهلا بيك في قائمة الافلام والمسلسلات العربيه\n√", reply_markup=keyboard)
@@ -72,7 +72,7 @@ async def film(c: Client, m: CallbackQuery):
         [InlineKeyboardButton("دراما 🌚", callback_data="drama " + str(m.from_user.id))],
 
         [InlineKeyboardButton("𝐇𝐎𝐌", callback_data="aflamAR2 " + str(m.from_user.id))],
-        [InlineKeyboardButton("🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱", url=f"https://t.me/Source_Ze")],
+        [InlineKeyboardButton("🔱 𝐒𝐎𝐔𝐑𝐂𝐄 SAQE 🔱", url=f"https://t.me/O_U_Q1")],
 
     ])
     await m.message.edit_text("◍ اهلا بيك في قائمة الافلام العربيه\n√", reply_markup=keyboard)
@@ -114,7 +114,7 @@ async def comedy(c: Client, m: CallbackQuery):
         [InlineKeyboardButton("⌯ البدله", callback_data="Xco20 " + str(m.from_user.id))],
 
         [InlineKeyboardButton("𝐇𝐎𝐌", callback_data="film " + str(m.from_user.id))],
-        [InlineKeyboardButton("🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱", url=f"https://t.me/Source_Ze")],
+        [InlineKeyboardButton("🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱", url=f"https://t.me/O_U_Q1")],
 
     ])
     await m.message.edit_text("◍ اهلا بك في قائمة الافلام الكوميدي العربيه\n√", reply_markup=keyboard)
