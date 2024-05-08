@@ -8,7 +8,7 @@ from ZeMusic import app
 @app.on_message(filters.command(["صرصار"], ""))
 def mody(client, message):
     message.reply_photo(
-        photo="https://graph.org/file/0331103b1c119716bad44.jpg",
+        photo="https://graph.org/file/64b768cff9c90461692d5.jpg",
         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("《🪳》", callback_data="mody")]])
     )
 
