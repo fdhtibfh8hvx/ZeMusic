@@ -15,7 +15,7 @@ from random import  choice, randint
 
 #          
                 
-@حمد","المبرمج حمد","مبرمج السورس","مبرمج"],"")
+ المبرمج حمد","مبرمج السورس","مبرمج"],"ا")
 )
 async def huhh(client: Client, message: Message):
     await message.reply_photo(
