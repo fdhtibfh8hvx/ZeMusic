@@ -15,8 +15,8 @@ from random import  choice, randint
 
 #          
                 
- المبرمج حمد","مبرمج السورس","مبرمج"],"ا")
-)
+ @app.on_message(filters.command(["سورس ","المبرمج حمد","مبرمج السورس","مبرم"],"حمد")
+
 async def huhh(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://graph.org/file/64b768cff9c90461692d5.jpg",
