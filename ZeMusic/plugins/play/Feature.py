@@ -41,7 +41,8 @@ from random import  choice, randint
  )
 async def mmmezat(client, message):
         await message.reply_text(f"""**مرحبآ بك عزيزي » {message.from_user.mention}**في قسم مميزات سورس زد إي ميوزك\n
-⩹━★⊷⌯⌞ 🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱 ⌝⌯⊶★━⩺
+⩹━★⊷⌯⌞ 🔱 
+𓏺 𝑨꯭𝑩꯭𝑶˹꯭ 𝑺꯭𝑨꯭𝑸꯭𝑹 𝘴͜͡𝘢🔱 ⌝⌯⊶★━⩺
 
 ★قايمه مميزات سورس زد إي 
 
@@ -96,7 +97,7 @@ async def mmmezat(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "★⌞ 🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱 ⌝⚡", url=f"https://t.me/O_U_Q1"),                        
+                        "★⌞ 🔱 𓏺 𝑨꯭𝑩꯭𝑶˹꯭ 𝑺꯭𝑨꯭𝑸꯭𝑹 𝘴͜͡𝘢 🔱 ⌝⚡", url=f"https://t.me/O_U_Q1"),                        
                  ],[
                 InlineKeyboardButton(
                         "close", callback_data="close"),
