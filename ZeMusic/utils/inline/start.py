@@ -31,7 +31,7 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(text="𖣂 قناة المطور 𖣂", url=config.SUPPORT_CHANNEL),
-            InlineKeyboardButton(text="𖣂 قناة السورس 𖣂", url=f"https://t.me/Source_Ze"),
+            InlineKeyboardButton(text="𖣂 قناة السورس 𖣂", url=f"https://t.me/O_U_Q1"),
         ],
     ]
     return buttons
