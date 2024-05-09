@@ -20,7 +20,7 @@ async def huhh(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://graph.org/file/64b768cff9c90461692d5.jpg",
         caption=f"""**ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ . .
- [🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱](https://t.me/O_U_Q1)**""",
+ [𓏺 𝑨꯭𝑩꯭𝑶˹꯭ 𝑺꯭𝑨꯭𝑸꯭𝑹 𝐒͜͜͡𝐀](https://t.me/O_U_Q1)**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
