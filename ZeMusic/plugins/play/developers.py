@@ -14,8 +14,9 @@ from ZeMusic import app
 from random import  choice, randint
 
 #          
-  @app.on_message(filters.command(["مودي","المبرمج حمد","مبرمج السورس","مبرمج"],"")
-
+  
+@app.on_message(filters.command(["مودي","المبرمج حمد","مبرمج السورس","مبرمج"],"")
+               )                   
 async def huhh(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://graph.org/file/64b768cff9c90461692d5.jpg",
