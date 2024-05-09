@@ -10,7 +10,7 @@ from config import OWNER_ID
 from pyrogram.enums import ParseMode, ChatMemberStatus
 
 
-𓏺 𝑨꯭𝑩꯭𝑶˹꯭ 𝑺꯭𝑨꯭𝑸꯭𝑹 𝘴͜͡𝘢, [23/12/44 03:32 ص]
+##𓏺 𝑨꯭𝑩꯭𝑶˹꯭ 𝑺꯭𝑨꯭𝑸꯭𝑹 𝘴͜͡𝘢, [23/12/44 03:32 ص]
 
 
 iddof = []
