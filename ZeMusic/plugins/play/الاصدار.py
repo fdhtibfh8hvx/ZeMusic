@@ -38,12 +38,12 @@ async def bkouqw(client: Client, message: Message):
 ★᚜ الاصدار 2.0.14
 ★᚜ تاريخ التأسيس : 2024/2/2
 
-★᚜ مؤسس زد إي : [ 𓏺 𝑨꯭𝑩꯭𝑶˹꯭ 𝑺꯭𝑨꯭𝑸꯭𝑹 𝘴͜͡𝘢 ](https://t.me/O_U_QA)""",
+★᚜ مؤسس زد إي : [ OWNER ](https://t.me/O_U_QA)""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🔱 𓏺 𝑨꯭𝑩꯭𝑶˹꯭ 𝑺꯭𝑨꯭𝑸꯭𝑹 𝘴͜͡𝘢 🔱", url=f"https://t.me/O_U_Q1"), 
+                        "🔱 𓏺 OWNER 🔱", url=f"https://t.me/O_U_Q1"), 
                  ],[
                  InlineKeyboardButton(
                         "", callback_data="hpdtsnju"),
