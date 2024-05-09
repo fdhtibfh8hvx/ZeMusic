@@ -30,7 +30,7 @@ def get_file_id(msg: Message):
 
     if msg.media:
 
-        for message_type in ("ايدي")
+        for message_type in (
 
             "photo",
 
@@ -86,7 +86,7 @@ def get_file_id(msg: Message):
 
                 #[
 
-                    #InlineKeyboardButton("ايدي")
+                    #InlineKeyboardButton(
 
                         #name, url=f"https://t.me/{message.from_user.id}")
 
