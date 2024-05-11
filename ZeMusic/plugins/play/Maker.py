@@ -39,7 +39,7 @@ async def maker(client: Client, message: Message):
                 ],
                 [
                    InlineKeyboardButton(
-                        "‹ المطور ›", url=f"https://t.me/O_U_QA"),
+                        "‹ المطور ›", url=f"https://t.me/O_U_1S"),
                 ],       
             ]
         ),
@@ -82,7 +82,7 @@ async def maker(client: Client, message: Message):
                 ],
                 [
                    InlineKeyboardButton(
-                        "‹ المطور ›", url=f"https://t.me/O_U_QA"),
+                        "‹ المطور ›", url=f"https://t.me/O_U_1S"),
                 ],       
             ]
         ),
@@ -132,7 +132,7 @@ async def maker(client: Client, message: Message):
                 ],
                 [
                    InlineKeyboardButton(
-                        "‹ المطور ›", url=f"https://t.me/O_U_QA"),
+                        "‹ المطور ›", url=f"https://t.me/O_U_1S"),
                 ],       
             ]
         ),
