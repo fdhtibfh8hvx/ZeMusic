@@ -35,7 +35,7 @@ InlineKeyboardButton("لتفعيل كيبورد الاعضاء", callback_data="
                 ],
                 [
                     InlineKeyboardButton(
-                        "‹ المطور ›", url="https://t.me/O_U_QA"
+                        "‹ المطور ›", url="https://t.me/O_U_1S"
                     )
                 ],
             ]
@@ -62,7 +62,7 @@ InlineKeyboardButton(" member keyboard ", callback_data="Source_Ze"),
                 ],
                 [                
                     InlineKeyboardButton(" Commands", callback_data="cbcmds"),
-                    InlineKeyboardButton(" Donate", url=f"https://t.me/Source_Ze"),
+                    InlineKeyboardButton(" Donate", url=f"https://t.me/O_U_Q1"),
                 ],
                 [
                     InlineKeyboardButton(
