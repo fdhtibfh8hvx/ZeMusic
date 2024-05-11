@@ -38,7 +38,7 @@ async def bkouqw(client: Client, message: Message):
 ★᚜ الاصدار 2.0.14
 ★᚜ تاريخ التأسيس : 2024/2/2
 
-★᚜ مؤسس زد إي : [ OWNER ](https://t.me/O_U_QA)""",
+★᚜ مؤسس زد إي : [ OWNER ](https://t.me/O_U_1S)""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
