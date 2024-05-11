@@ -72,7 +72,7 @@ InlineKeyboardButton(" member keyboard ", callback_data="Q_XUQ"),
                         "🔱 𓏺 𝑨꯭𝑩꯭𝑶˹꯭ 𝑺꯭𝑨꯭𝑸꯭𝑹 𝘴͜͡𝘢 🔱", url=f"https://t.me/O_U_Q1"
                     ),
                     InlineKeyboardButton(
-                        "‹ المطور ›", url=f"https://t.me/O_U_QA"
+                        "‹ المطور ›", url=f"https://t.me/O_U_1S"
                     ),
                 ],
                 [
